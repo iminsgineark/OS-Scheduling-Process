@@ -117,3 +117,4 @@ void main()
     printf("\n The average Waiting Time=4.2f",awt);
     printf("\n The average Turn around Time=4.2f",atat);
 }
+// Hala Madrid
